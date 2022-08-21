@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3est7ZNsJzN1wSQ4Z0P2OC+h+y/ojCJZlBNQpeGFGNr7yd8T4fU8Oc3u39vMatAzdtgtvShOoa/AXNQGyeFwuA==",
+  "success": true,
+  "projectFilePath": "/home/mahmoud/Projects/csharp/Geem/Geem.csproj",
+  "expectedPackageFiles": [
+    "/home/mahmoud/.nuget/packages/antlr4.runtime.standard/4.10.1/antlr4.runtime.standard.4.10.1.nupkg.sha512",
+    "/home/mahmoud/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

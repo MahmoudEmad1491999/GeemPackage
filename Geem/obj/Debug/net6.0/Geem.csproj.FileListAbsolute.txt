@@ -1,0 +1,17 @@
+/home/mahmoud/Projects/csharp/Geem/bin/Debug/net6.0/Geem
+/home/mahmoud/Projects/csharp/Geem/bin/Debug/net6.0/Geem.deps.json
+/home/mahmoud/Projects/csharp/Geem/bin/Debug/net6.0/Geem.runtimeconfig.json
+/home/mahmoud/Projects/csharp/Geem/bin/Debug/net6.0/Geem.dll
+/home/mahmoud/Projects/csharp/Geem/bin/Debug/net6.0/ref/Geem.dll
+/home/mahmoud/Projects/csharp/Geem/bin/Debug/net6.0/Geem.pdb
+/home/mahmoud/Projects/csharp/Geem/bin/Debug/net6.0/Antlr4.Runtime.Standard.dll
+/home/mahmoud/Projects/csharp/Geem/obj/Debug/net6.0/Geem.csproj.AssemblyReference.cache
+/home/mahmoud/Projects/csharp/Geem/obj/Debug/net6.0/Geem.GeneratedMSBuildEditorConfig.editorconfig
+/home/mahmoud/Projects/csharp/Geem/obj/Debug/net6.0/Geem.AssemblyInfoInputs.cache
+/home/mahmoud/Projects/csharp/Geem/obj/Debug/net6.0/Geem.AssemblyInfo.cs
+/home/mahmoud/Projects/csharp/Geem/obj/Debug/net6.0/Geem.csproj.CoreCompileInputs.cache
+/home/mahmoud/Projects/csharp/Geem/obj/Debug/net6.0/Geem.csproj.CopyComplete
+/home/mahmoud/Projects/csharp/Geem/obj/Debug/net6.0/Geem.dll
+/home/mahmoud/Projects/csharp/Geem/obj/Debug/net6.0/ref/Geem.dll
+/home/mahmoud/Projects/csharp/Geem/obj/Debug/net6.0/Geem.pdb
+/home/mahmoud/Projects/csharp/Geem/obj/Debug/net6.0/Geem.genruntimeconfig.cache
